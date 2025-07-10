@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related production APIs "
   contactDetails:
-    name: "Reine Aishwarya - DevOps Engineer"
+    name: "Reine Aishwarya - Product Manager"
     email: "aishwarya@eazybank.com"
   onCallSupport:
     - (453) 392-4829
